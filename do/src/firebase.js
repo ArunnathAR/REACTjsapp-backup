@@ -2,13 +2,13 @@
 /*import firebase from 'firebase';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDGFIQ7aP5WTr2H8pJk9abQZwHahAJuta4",
+  apiKey: "yyyyyyyyyyyyyyyyyyyyyyyy",
   authDomain: "ott-platform-2fb3b.firebaseapp.com",
   projectId: "ott-platform-2fb3b",
   storageBucket: "ott-platform-2fb3b.appspot.com",
-  messagingSenderId: "801403258842",
-  appId: "1:801403258842:web:d7d792b167f729b87b22e3",
-  measurementId: "G-VS4CYFB7ER",
+  messagingSenderId: "8014oorefioho8842",
+  appId: "1:8014lkhdvisdhuishfuish8934836422e3",
+  measurementId: "G-Vrihfiou4hFB7ER",
 };
 
 const firebaseApp  = firebase.initializeApp(firebaseConfig);
